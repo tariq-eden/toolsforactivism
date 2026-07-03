@@ -29,6 +29,9 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
  * [CiviCRM](https://civicrm.org/) - Contact management system for non-profit / activist sector, including donations, memberships, events, SMS, bulk mail & full CRM.
  * [Spoke](https://github.com/Elizabeth-Warren/Spoke) - Text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.
+ * [E2H Etherpads](https://e2h.totalism.org/e2h.php?_=E2H) - Etherpad is an open source, Google Docs-like rich text editor. E2H allows you to turn Etherpad documents into websites. A hosted version is available at [pad.land](https://pad.land)
+ * [Outline](https://getoutline.org/en-GB/) - Create your own VPN, for free.
+ 
 
 ## Software as a service:
 
@@ -41,7 +44,9 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
  * [MoveOn's Petition Platform](https://petitions.moveon.org/) - Start your own petition on MoveOn's hosted platform. If your petition gains traction, MoveOn staff may help support you.
  * [CiviWiki](https://civi.wiki/) - An open-source, non-profit community, working to develop a democratic engagement web system.
- 
+ * [Signal](https://signal.org/) - Usable, secure end-to-end encrypted messenging, with group chats. Highly recommended over Telegram, especially if there is significant risk with data being subpeona'd by government. Code is open-source.
+ * [Zines Forever](https://zinesforever.com/) - Create, host and share zines. Also can check out community activism zines.
+
 ## Operating Systems:
 
  * [Tails](https://tails.boum.org/) - A live media, Linux-based operating system that is designed to allow the use of a computer without leaving a digital footprint.
