@@ -6,7 +6,17 @@
 
 An in-progress list of digital tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. 
 Some are software-as-a-service tools that you use by going to a webpage in your browser. 
-Feel free to share suggestions.
+Feel free to share suggested additions and/or updates to those that are no-longer relevant.
+
+Note: currently adding in tools from other lists, including: 
+* [Collectivising Tools Review](https://hackmd.io/@Teq/DigitalTools) 
+* [Digital Justice Society Guidelines](https://digitaljusticesociety.org/n/breakupspotify/resources/) 
+* [Digital Security Resources](https://actionskills.au/resources/digital-security/) by Glenn Todd, 2024
+* [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism), by Drew Wilson and collaborators, 2022
+* [Rethinking the Tools for Collectives](https://blog.opencollective.com/rethinking-the-tools-for-collectives/) by Xavier Damman 2018
+* [Three Open Source Tech Tools for your Campaigning](https://commonslibrary.org/three-open-source-tech-tools-for-your-campaigning/) by Aurora Adams, 2019
+* [Alternatives to Google Drive](https://alternativeto.net/software/google-drive/?license=opensource)
+* [10 Opensource Alternatives to Google Docs](https://medevel.com/10-open-source-self-hosted-collaborative-document-editors/)
 
 ## Table of Contents
 
@@ -71,6 +81,13 @@ These are all projects that are works in process. Not finished, but worth checki
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
  * [Umbrella App](https://github.com/securityfirst/Umbrella_android) - an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese.
  * [Code Corps](https://github.com/code-corps) - code corps hopes to provide tools that connect people to projects that have a social impact, facilitate crowdfunding, and provide support for those working on projects 
+
+## Digital Security Notes: tools to avoid (that were previously good and/or still commonly used) 
+* Keybase - Acquired by Zoom. Zoom is partly owned by Israeili spyware company NSO.
+* WIRE - Moved to high cost model, cryptobro fascists.
+* Telegram - Has never implemented e2ee effectively. User data is maintained and likely to be handed over to EU due to Pavel Durov’s arrest. Content control is unsafe and carries risk of doxxing. Common route for message injection of Dark Caracal and Pegasus spyware used to assassinate dissidents by Israel.
+* Whatsapp - Has never been safe. Delete. E2EE unimplemented, Meta has handed geolocation data to ISR to target 160 murdered journalists. Meta also trains facial and targeting machine learning on SM content.
+* Wickr compromised in 2021
 
 ## The Graveyad
 
