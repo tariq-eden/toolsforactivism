@@ -1,4 +1,4 @@
-# Digital Tools for Activism
+# Digital Tools for Activism, 2022
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
